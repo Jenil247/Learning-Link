@@ -1,4 +1,4 @@
-# 🚀 Learning-Link – Curated Educational Resource Hub  
+# 🚀 Learning-Link – A Digital Platform for Students, By Students  
 
 [![Made with MERN](https://img.shields.io/badge/Made%20With-MERN-green?logo=mongodb&logoColor=white)]()  
 [![TypeScript](https://img.shields.io/badge/Frontend-TypeScript-blue?logo=typescript)]()  
